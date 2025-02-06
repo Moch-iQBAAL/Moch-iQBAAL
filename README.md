@@ -21,17 +21,23 @@ _I am a student who is currently studying in the IT field. With high dreams, I h
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Moch-iQBAAL&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
+
 ---
 
 ### 🔍 You Can Find Me at 
-<p> 
-  <a href="https://www.linkedin.com/in/iqbal-moch-maulana-iqbal-5722272b8 target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a> 
-  <a href="https://www.instagram.com/moch.iqbaal_/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/moch.iqbaal_/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+[![website](./img/whatsapp-light.svg)](https://wa.me/085385024451?text=Helloo#gh-light-mode-only)
+[![website](./img/whatsapp-light.svg)](https://wa.me/085385024451?text=Helloo#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+
+
+
+[webdev]: https://github.com/vincentwidyan/vincentwidyan
+
