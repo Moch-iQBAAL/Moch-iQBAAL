@@ -15,7 +15,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: USERNAME   # Ganti USERNAME dengan username GitHub kamu
+          github_user_name: Moch-iQBAAL/Moch-iQBAAL   # Ganti USERNAME dengan username GitHub kamu
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push hasil snake
