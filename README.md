@@ -34,7 +34,7 @@
 <!-- Activity Snake Animation -->
 <h3 align="center">🐍 My Contribution Snake</h3>
 <p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Moch-iQBAAL/Moch-iQBAAL/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
