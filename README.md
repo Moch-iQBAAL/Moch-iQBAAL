@@ -15,27 +15,18 @@
 <!-- Badge Social Media -->
 <h3 align="center">🌐 Connect with Me 🌐</h3>
 <p align="center">
-  <a href="https://wa.me/6281234567890" target="_blank">
+  <a href="https://wa.me/6285385024451" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/username" target="_blank">
+  <a href="https://instagram.com/moch.iqbaal" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://facebook.com/username" target="_blank">
+  <a href="https://facebook.com/iniakunabaideh.tq" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://moch-iqbal.my.id" target="_blank">
     <img src="https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
-</p>
-
----
-
-<!-- Github Stats -->
-<h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 ---
