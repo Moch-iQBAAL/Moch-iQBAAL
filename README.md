@@ -18,7 +18,7 @@
   <a href="https://wa.me/6285385024451" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/moch.iqbaal" target="_blank">
+  <a href="https://instagram.com/moch.iqbaal_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://facebook.com/iniakunabaideh.tq" target="_blank">
@@ -34,7 +34,11 @@
 <!-- Activity Snake Animation -->
 <h3 align="center">🐍 My Contribution Snake</h3>
 <p align="center">
-  <img src="https://github.com/Moch-iQBAAL/Moch-iQBAAL/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  🐍 My Contribution Snake  
+
+![GitHub Snake Light](https://github.com/Moch-iQBAAL/Moch-iQBAAL/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/Moch-iQBAAL/Moch-iQBAAL/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 </p>
 
 ---
