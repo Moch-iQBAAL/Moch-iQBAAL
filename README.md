@@ -34,7 +34,7 @@
 <!-- Activity Snake Animation -->
 <h3 align="center">🐍 My Contribution Snake</h3>
 <p align="center">
-  🐍 My Contribution Snake  
+ 
 
 ![GitHub Snake Light](https://github.com/Moch-iQBAAL/Moch-iQBAAL/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://github.com/Moch-iQBAAL/Moch-iQBAAL/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
